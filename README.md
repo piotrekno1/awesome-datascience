@@ -54,6 +54,7 @@ Become a sponsor! `github@academic.io`
   - [General Machine Learning Packages](#general-machine-learning-packages)
   - [Model Evaluation & Monitoring](#model-evaluation--monitoring)
     - [Evidently AI](#evidently-ai)
+    - [WildEdge](https://wildedge.dev/) 
   - [Deep Learning Packages](#deep-learning-packages)
     - [PyTorch Ecosystem](#pytorch-ecosystem)
     - [TensorFlow Ecosystem](#tensorflow-ecosystem)
